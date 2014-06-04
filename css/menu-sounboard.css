@@ -1,0 +1,167 @@
+#u892:active
+{
+	background: url("../images/u892-m.png") no-repeat 0px 0px;
+}
+
+#u907:active
+{
+	background: url("../images/u907-m.png") no-repeat 0px 0px;
+}
+
+#u897:active
+{
+	background: url("../images/u897-m.png") no-repeat 0px 0px;
+}
+
+#u887:active
+{
+	background: url("../images/u887-m.png") no-repeat 0px 0px;
+}
+
+#u882:active
+{
+	background: url("../images/u882-m.png") no-repeat 0px 0px;
+}
+
+#u902:active
+{
+	background: url("../images/u902-m.png") no-repeat 0px 0px;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 327px;
+	min-height: 216px;
+	border-style: none;
+	border-color: #000000;
+	padding: 71px 31px 283px 22px;
+	background: #FFFFFF url("../images/fondi-page-fr.jpg") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/fondi.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: cover !important;
+}
+
+#ppu882
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u882
+{
+	z-index: 3;
+	height: 105px;
+	width: 124px;
+	vertical-align: top;
+	background: url("../images/u882.png") no-repeat 0px 0px;
+	margin-bottom: -4px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u892
+{
+	z-index: 9;
+	height: 95px;
+	width: 112px;
+	vertical-align: top;
+	background: url("../images/u892.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	left: 219px;
+}
+
+#u897
+{
+	z-index: 12;
+	height: 105px;
+	width: 124px;
+	vertical-align: top;
+	background: url("../images/u897.png") no-repeat 0px 0px;
+	margin-bottom: -4px;
+	position: relative;
+	margin-right: -10000px;
+	left: 105px;
+}
+
+#ppu887
+{
+	width: 0.01px;
+	margin-top: 6px;
+	position: relative;
+}
+
+#u887
+{
+	z-index: 6;
+	height: 105px;
+	width: 124px;
+	vertical-align: top;
+	background: url("../images/u887.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+}
+
+#u902
+{
+	z-index: 15;
+	height: 101px;
+	width: 119px;
+	vertical-align: top;
+	background: url("../images/u902.png") no-repeat 0px 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 212px;
+}
+
+#u907
+{
+	z-index: 18;
+	height: 113px;
+	width: 133px;
+	vertical-align: top;
+	background: url("../images/u907.png") no-repeat 0px 0px;
+	margin-bottom: -4px;
+	position: relative;
+	margin-right: -10000px;
+	left: 100px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

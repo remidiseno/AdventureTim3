@@ -1,0 +1,154 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 339px;
+	min-height: 467px;
+	border-style: none;
+	border-color: #000000;
+	padding: 32px 20px 71px 21px;
+	background: #FFFFFF url("../images/sin%20t%c3%adtulo-1-page-fr2.jpg") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/sin%20t%c3%adtulo-11520x2299.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: contain !important;
+}
+
+#pu929-3
+{
+	width: 0.01px;
+	left: -1px;
+	position: relative;
+}
+
+#u929-3
+{
+	z-index: 2;
+	width: 339px;
+	min-height: 390px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #050528;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	-moz-border-radius: 21px;
+	-webkit-border-radius: 21px;
+	-khtml-border-radius: 21px;
+	border-radius: 21px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u925-33
+{
+	z-index: 5;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	width: 245px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 48px;
+}
+
+#u969
+{
+	z-index: 44;
+	width: 69px;
+	height: 63px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 321px;
+	left: 7px;
+	background: transparent url("../images/home-u969-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u969:hover
+{
+	margin: 321px -10000px 0px 0px;
+	background: transparent url("../images/home-u969-r-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u969:active
+{
+	margin: 321px -10000px 0px 0px;
+	background: transparent url("../images/home-u969-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#pu957
+{
+	width: 0.01px;
+	margin-left: 63px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u957
+{
+	z-index: 42;
+	width: 68px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u944
+{
+	z-index: 40;
+	width: 68px;
+	position: relative;
+	margin-right: -10000px;
+	left: 81px;
+}
+
+#u939
+{
+	z-index: 38;
+	width: 68px;
+	position: relative;
+	margin-right: -10000px;
+	left: 161px;
+}
+
+#u944_img,#u939_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

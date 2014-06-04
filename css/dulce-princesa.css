@@ -1,0 +1,367 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 499px;
+	border-style: none;
+	border-color: #000000;
+	padding-bottom: 71px;
+	background: #FFFFFF url("../images/adventure-time_1920x1080_97648-page-fr.png") no-repeat center center;
+	background-color: rgba(255, 255, 255, 0.75);
+	background-size: cover !important;
+}
+
+#u288-3
+{
+	z-index: 46;
+	width: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 232px;
+	left: -354px;
+}
+
+#ppu235-3
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 17px;
+}
+
+#pu235-3
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#u235-3
+{
+	z-index: 2;
+	width: 339px;
+	min-height: 390px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #470F47;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	-moz-border-radius: 21px;
+	-webkit-border-radius: 21px;
+	-khtml-border-radius: 21px;
+	border-radius: 21px;
+	position: relative;
+	margin-right: -10000px;
+	left: 2px;
+}
+
+#u227-4
+{
+	z-index: 5;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	width: 35px;
+	margin-right: -10000px;
+	margin-top: 117px;
+	left: 273px;
+}
+
+#u230-4
+{
+	z-index: 9;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	width: 73px;
+	margin-right: -10000px;
+	margin-top: 117px;
+	left: 21px;
+}
+
+#u243-4
+{
+	z-index: 13;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	width: 44px;
+	margin-right: -10000px;
+	margin-top: 117px;
+	left: 149px;
+}
+
+#u241-4
+{
+	z-index: 17;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	width: 99px;
+	margin-right: -10000px;
+	margin-top: 241px;
+	left: 240px;
+}
+
+#u240-4
+{
+	z-index: 21;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	width: 50px;
+	margin-right: -10000px;
+	margin-top: 241px;
+	left: 33px;
+}
+
+#u231-4
+{
+	z-index: 25;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	width: 75px;
+	margin-right: -10000px;
+	margin-top: 239px;
+	left: 134px;
+}
+
+#u228-4
+{
+	z-index: 29;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	width: 37px;
+	margin-right: -10000px;
+	margin-top: 361px;
+	left: 270px;
+}
+
+#u238-4
+{
+	z-index: 33;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	width: 95px;
+	margin-right: -10000px;
+	margin-top: 361px;
+	left: 13px;
+}
+
+#u237-4
+{
+	z-index: 37;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	width: 41px;
+	margin-right: -10000px;
+	margin-top: 361px;
+	left: 151px;
+}
+
+#u263
+{
+	z-index: 41;
+	width: 115px;
+	height: 115px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#u268
+{
+	z-index: 42;
+	width: 114px;
+	height: 114px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 114px;
+}
+
+#u273
+{
+	z-index: 43;
+	width: 114px;
+	height: 114px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 232px;
+}
+
+#u278
+{
+	z-index: 44;
+	width: 114px;
+	height: 114px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 131px;
+	left: 1px;
+}
+
+#u283
+{
+	z-index: 45;
+	width: 114px;
+	height: 114px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 131px;
+	left: 114px;
+}
+
+#u289
+{
+	z-index: 49;
+	width: 114px;
+	height: 114px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 131px;
+	left: 232px;
+}
+
+#u294
+{
+	z-index: 50;
+	width: 114px;
+	height: 114px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 251px;
+	left: 1px;
+}
+
+#u299
+{
+	z-index: 51;
+	width: 114px;
+	height: 114px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 251px;
+	left: 114px;
+}
+
+#u304
+{
+	z-index: 52;
+	width: 114px;
+	height: 114px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 251px;
+	left: 232px;
+}
+
+#pu813
+{
+	width: 0.01px;
+	margin-left: 16px;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u813
+{
+	z-index: 54;
+	width: 185px;
+	height: 65px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/return-u815-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u813:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/return-u815-r-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u813:active
+{
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/return-u815-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u812
+{
+	z-index: 53;
+	width: 71px;
+	height: 65px;
+	position: relative;
+	margin-right: -10000px;
+	left: 236px;
+	background: transparent url("../images/home-u814-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u812:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/home-u814-r-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u812:active
+{
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/home-u814-fr.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
